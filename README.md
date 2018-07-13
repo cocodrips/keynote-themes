@@ -1,4 +1,6 @@
 # Free Keynote templates.
+## Morning glow
+<img src="https://github.com/cocodrips/KeynoteThemes/blob/master/morning_glow/sample_image.png">
 
 ## Mint Green
 <img src="https://github.com/cocodrips/KeynoteThemes/blob/master/mint_green/sample_image.png">
